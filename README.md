@@ -1,3 +1,10 @@
+# Caffe with ReLU6
+
+Caffe is from https://github.com/BVLC/caffe/tree/1.0,
+ReLU6 support is from https://github.com/RuiminChen/Caffe-MobileNetV2-ReLU6/tree/ca913f241d39ce9a8e4097ad4fa13bad1f44c0c1
+
+---
+
 # Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
